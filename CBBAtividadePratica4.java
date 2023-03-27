@@ -1,4 +1,4 @@
-public class OrcamentoPiscina{
+public class CBBAtividadePratica4{
     public static void main (String[] args){
         int precoMetroCub = 100;
         int metrosCubicos = 54;
