@@ -14,5 +14,7 @@ public class BMExercicio02 {
             System.out.println(q);
             System.out.println(b);
             System.out.println(c);
+
+
     }
 }
